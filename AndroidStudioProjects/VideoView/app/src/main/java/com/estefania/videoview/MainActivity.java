@@ -1,6 +1,7 @@
 package com.estefania.videoview;
 
 import android.app.Activity;
+import android.net.Uri;
 import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -28,7 +29,8 @@ public class MainActivity extends Activity {
             Toast.makeText(this,"No Exists", Toast.LENGTH_LONG).show();
         }*/
 
-        mVideoView.setVideoPath("/storage/extSdCard/video.mp4");
+        //mVideoView.setVideoPath("/storage/extSdCard/video.mp4");
+        mVideoView.setVideoURI(Uri.parse("http://campus.somtic.net/android/Freestyle_Motocross.mp4"));
         mVideoView.setMediaController(new MediaController(this));
         mVideoView.start();
         mVideoView.requestFocus();
