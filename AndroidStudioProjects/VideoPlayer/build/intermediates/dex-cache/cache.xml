@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_c012555944f68563f888bcd6b9c30914e3be501f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0cb8f005b89a6a88836e37151606cdd6c897ea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f31a81679f192d95bb4a525e93d758719ca0d830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_56563f47ebad0dc9d983c88412431b7ac12e672b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5da291005b2e7cfc8b175746637ee7066bddb0bf">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5c0c937135d9243c89bae3928c4621345f3382cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_51de399dc1f3c4816dc76aa00227a2c201f34ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c8582f7d2b2d5b49ee5529622cce0f25e4c8f61c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5f584368a3c273d00c6840cabfe9f789322aaaec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9f9f23ca0a9d69e7a7ac945ead18aaf6ee844e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2662c7a38c65c001570b815fac0bb864851112fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_789e0d9e6cf73e263e7df4157af6b76ad8a1e0c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d1cd214f3d925edc9f1010962e1eb245a7fd468d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e5b86374888243d981e71cf52a5f951f62af7bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e1343040400bf9f832164e24402f52b91a7dc9e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d100c8c9087215eb5b4537ac807da48aad68c2fd">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fb77cb93d932cf161a30f06ea7a3530dba84e324\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6632f71b34c5043dd001b307e17ca30c66caf195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Fany\AndroidStudioProjects\VideoPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2faea4c07eab3c63cb770c9bd33696f85814f4ab\classes.dex" />
+    </item>
+
+</items>

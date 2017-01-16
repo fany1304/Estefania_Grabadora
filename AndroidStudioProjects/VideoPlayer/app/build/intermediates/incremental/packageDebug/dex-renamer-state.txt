@@ -1,0 +1,7 @@
+#Mon Jan 16 01:30:59 CET 2017
+base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\VideoPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5c0c937135d9243c89bae3928c4621345f3382cd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Fany\\AndroidStudioProjects\\VideoPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fb77cb93d932cf161a30f06ea7a3530dba84e324\\classes.dex
+base.1=C\:\\Users\\Fany\\AndroidStudioProjects\\VideoPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fb77cb93d932cf161a30f06ea7a3530dba84e324
+file.0=C\:\\Users\\Fany\\AndroidStudioProjects\\VideoPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5c0c937135d9243c89bae3928c4621345f3382cd\\classes.dex
